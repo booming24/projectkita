@@ -26,7 +26,7 @@
         <?Php
          $query= "SELECT * FROM siswa";
          $hasil= $Koneksi-> query($query);
-         $nomor=10;
+         $nomor=1;
          if($hasil->num_rows > 0){
              while($row= $hasil->fetch_assoc()){
                  echo "<tr>";

@@ -7,7 +7,7 @@
     <?php
     $Koneksi = new mysqli("localhost", "root", "", "sistem_sekolah");
     ?>
-    <b>Form Pendaftaran siswa mesin dan elektro</b>
+    <b>MI nih boss</b>
     <br>
     <form action="" method="POST">
     Nama          : <input type="text" id="nama" name="nama"><br>
